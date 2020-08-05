@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RentalCar</string>
+
+    <array name="rentalDays">
+        <item>Select One</item>
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+    </array>
+
+    <array name="typeOfCar">
+        <item>Select One</item>
+        <item>Jeep Wrangler</item>
+        <item>Jeep Grand Cherokee</item>
+        <item>Land Rover</item>
+    </array>
+
+    <array name="gasFill">
+        <item>Select One</item>
+        <item>No</item>
+        <item>Yes</item>
+    </array>
+
+</resources>
